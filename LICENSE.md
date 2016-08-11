@@ -1,3 +1,3 @@
 #LICENSE
 
-Feel free to copy this code.
+Feel free to use this code.
